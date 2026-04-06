@@ -43,7 +43,7 @@ Financial inclusion starts with transparency. This system demystifies loan appro
 
 **🔗 Check out the code on GitHub:**  https://github.com/kashish-gupta890/loan_approval_predication
 
-** Special Thanks Madrid Software and My Mentor Surya Pratap Sir.**
+Special Thanks Madrid Software and My Mentor Surya Pratap Sir.
 
 **🤔 Your Thoughts**
 What other factors would you consider crucial for loan approval in India? Drop your thoughts below! 👇
